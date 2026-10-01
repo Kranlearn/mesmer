@@ -1,0 +1,5 @@
+__pycache__/
+env/
+win_env/
+*.pyc
+.vscode/
